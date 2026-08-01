@@ -1,7 +1,4 @@
-import os
-
 # Create HTML content for README-style document or Markdown content
-readme_content = """# Historical Weather Data Lakehouse & ML Forecasting Pipeline
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Orchestration: Dagster](https://img.shields.io/badge/orchestrator-Dagster-red.svg)](https://dagster.io/)
