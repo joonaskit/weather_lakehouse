@@ -1,11 +1,11 @@
-# Create HTML content for README-style document or Markdown content
-
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Orchestration: Dagster](https://img.shields.io/badge/orchestrator-Dagster-red.svg)](https://dagster.io/)
 [![Engine: DuckDB](https://img.shields.io/badge/engine-DuckDB-yellow.svg)](https://duckdb.org/)
 [![Format: Parquet](https://img.shields.io/badge/format-Apache%20Parquet-green.svg)](https://parquet.apache.org/)
 [![ML: XGBoost](https://img.shields.io/badge/ml-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
+
+# Introduction
 
 An end-to-end, modular Data Lakehouse and Machine Learning pipeline for historical weather ingestion, feature engineering, automated backtesting, and localized forecasting. 
 
